@@ -1,3 +1,3 @@
 # jet
  The official Github of the game JET
- MAde by G.Games
+ Made by G.Games
